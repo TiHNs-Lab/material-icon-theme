@@ -595,6 +595,9 @@
         "h": {
           "path": "./icons/h.svg"
         },
+        "hip": {
+          "path": "./icons/hip.svg"
+        },
         "hpp": {
           "path": "./icons/hpp.svg"
         },
@@ -1101,6 +1104,12 @@
         },
         "cuda": {
           "path": "./icons/cuda.svg"
+        },
+        "opencode": {
+          "path": "./icons/opencode.svg"
+        },
+        "opencode_light": {
+          "path": "./icons/opencode_light.svg"
         },
         "dotjs": {
           "path": "./icons/dotjs.svg"
@@ -1990,6 +1999,12 @@
         "macaulay2": {
           "path": "./icons/macaulay2.svg"
         },
+        "uiua": {
+          "path": "./icons/uiua.svg"
+        },
+        "tsdown": {
+          "path": "./icons/tsdown.svg"
+        },
         "appwrite": {
           "path": "./icons/appwrite.svg"
         },
@@ -1998,6 +2013,9 @@
         },
         "expo_light": {
           "path": "./icons/expo_light.svg"
+        },
+        "mrpack": {
+          "path": "./icons/mrpack.svg"
         },
         "file": {
           "path": "./icons/file.svg"
@@ -2025,6 +2043,26 @@
           "expanded": "./icons/folder-rust-open.svg"
         },
         "__rust__": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        "cargo": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        ".cargo": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        "_cargo": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        "-cargo": {
+          "collapsed": "./icons/folder-rust.svg",
+          "expanded": "./icons/folder-rust-open.svg"
+        },
+        "__cargo__": {
           "collapsed": "./icons/folder-rust.svg",
           "expanded": "./icons/folder-rust-open.svg"
         },
@@ -3405,6 +3443,26 @@
           "expanded": "./icons/folder-scripts-open.svg"
         },
         "__scripting__": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        "xtask": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        ".xtask": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        "_xtask": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        "-xtask": {
+          "collapsed": "./icons/folder-scripts.svg",
+          "expanded": "./icons/folder-scripts-open.svg"
+        },
+        "__xtask__": {
           "collapsed": "./icons/folder-scripts.svg",
           "expanded": "./icons/folder-scripts-open.svg"
         },
@@ -6085,6 +6143,26 @@
           "expanded": "./icons/folder-lib-open.svg"
         },
         "__externals__": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        "crates": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        ".crates": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        "_crates": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        "-crates": {
+          "collapsed": "./icons/folder-lib.svg",
+          "expanded": "./icons/folder-lib-open.svg"
+        },
+        "__crates__": {
           "collapsed": "./icons/folder-lib.svg",
           "expanded": "./icons/folder-lib-open.svg"
         },
@@ -19664,67 +19742,51 @@
           "collapsed": "./icons/folder-organism.svg",
           "expanded": "./icons/folder-organism-open.svg"
         },
+        "claude": {
+          "collapsed": "./icons/folder-claude.svg",
+          "expanded": "./icons/folder-claude-open.svg"
+        },
         ".claude": {
           "collapsed": "./icons/folder-claude.svg",
           "expanded": "./icons/folder-claude-open.svg"
         },
-        "..claude": {
+        "_claude": {
           "collapsed": "./icons/folder-claude.svg",
           "expanded": "./icons/folder-claude-open.svg"
         },
-        "_.claude": {
+        "-claude": {
           "collapsed": "./icons/folder-claude.svg",
           "expanded": "./icons/folder-claude-open.svg"
         },
-        "-.claude": {
+        "__claude__": {
           "collapsed": "./icons/folder-claude.svg",
           "expanded": "./icons/folder-claude-open.svg"
         },
-        "__.claude__": {
-          "collapsed": "./icons/folder-claude.svg",
-          "expanded": "./icons/folder-claude-open.svg"
+        "cursor": {
+          "collapsed": "./icons/folder-cursor.svg",
+          "expanded": "./icons/folder-cursor-open.svg"
         },
         ".cursor": {
           "collapsed": "./icons/folder-cursor.svg",
           "expanded": "./icons/folder-cursor-open.svg"
         },
-        "..cursor": {
+        "_cursor": {
           "collapsed": "./icons/folder-cursor.svg",
           "expanded": "./icons/folder-cursor-open.svg"
         },
-        "_.cursor": {
+        "-cursor": {
           "collapsed": "./icons/folder-cursor.svg",
           "expanded": "./icons/folder-cursor-open.svg"
         },
-        "-.cursor": {
+        "__cursor__": {
           "collapsed": "./icons/folder-cursor.svg",
           "expanded": "./icons/folder-cursor-open.svg"
-        },
-        "__.cursor__": {
-          "collapsed": "./icons/folder-cursor.svg",
-          "expanded": "./icons/folder-cursor-open.svg"
-        },
-        ".gemini": {
-          "collapsed": "./icons/folder-gemini-ai.svg",
-          "expanded": "./icons/folder-gemini-ai-open.svg"
-        },
-        "..gemini": {
-          "collapsed": "./icons/folder-gemini-ai.svg",
-          "expanded": "./icons/folder-gemini-ai-open.svg"
-        },
-        "_.gemini": {
-          "collapsed": "./icons/folder-gemini-ai.svg",
-          "expanded": "./icons/folder-gemini-ai-open.svg"
-        },
-        "-.gemini": {
-          "collapsed": "./icons/folder-gemini-ai.svg",
-          "expanded": "./icons/folder-gemini-ai-open.svg"
-        },
-        "__.gemini__": {
-          "collapsed": "./icons/folder-gemini-ai.svg",
-          "expanded": "./icons/folder-gemini-ai-open.svg"
         },
         "gemini": {
+          "collapsed": "./icons/folder-gemini-ai.svg",
+          "expanded": "./icons/folder-gemini-ai-open.svg"
+        },
+        ".gemini": {
           "collapsed": "./icons/folder-gemini-ai.svg",
           "expanded": "./icons/folder-gemini-ai-open.svg"
         },
@@ -19779,6 +19841,26 @@
         "__geminiai__": {
           "collapsed": "./icons/folder-gemini-ai.svg",
           "expanded": "./icons/folder-gemini-ai-open.svg"
+        },
+        "opencode": {
+          "collapsed": "./icons/folder-opencode.svg",
+          "expanded": "./icons/folder-opencode-open.svg"
+        },
+        ".opencode": {
+          "collapsed": "./icons/folder-opencode.svg",
+          "expanded": "./icons/folder-opencode-open.svg"
+        },
+        "_opencode": {
+          "collapsed": "./icons/folder-opencode.svg",
+          "expanded": "./icons/folder-opencode-open.svg"
+        },
+        "-opencode": {
+          "collapsed": "./icons/folder-opencode.svg",
+          "expanded": "./icons/folder-opencode-open.svg"
+        },
+        "__opencode__": {
+          "collapsed": "./icons/folder-opencode.svg",
+          "expanded": "./icons/folder-opencode-open.svg"
         },
         "input": {
           "collapsed": "./icons/folder-input.svg",
@@ -20340,6 +20422,26 @@
           "collapsed": "./icons/folder-instructions.clone.svg",
           "expanded": "./icons/folder-instructions-open.clone.svg"
         },
+        "zed": {
+          "collapsed": "./icons/folder-zed.svg",
+          "expanded": "./icons/folder-zed-open.svg"
+        },
+        ".zed": {
+          "collapsed": "./icons/folder-zed.svg",
+          "expanded": "./icons/folder-zed-open.svg"
+        },
+        "_zed": {
+          "collapsed": "./icons/folder-zed.svg",
+          "expanded": "./icons/folder-zed-open.svg"
+        },
+        "-zed": {
+          "collapsed": "./icons/folder-zed.svg",
+          "expanded": "./icons/folder-zed-open.svg"
+        },
+        "__zed__": {
+          "collapsed": "./icons/folder-zed.svg",
+          "expanded": "./icons/folder-zed-open.svg"
+        },
         "appwrite": {
           "collapsed": "./icons/folder-appwrite.svg",
           "expanded": "./icons/folder-appwrite-open.svg"
@@ -20479,6 +20581,66 @@
         "__kotlin__": {
           "collapsed": "./icons/folder-kotlin.svg",
           "expanded": "./icons/folder-kotlin-open.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        ".redis": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "_redis": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "-redis": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "__redis__": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "redis-db": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        ".redis-db": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "_redis-db": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "-redis-db": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "__redis-db__": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "redislabs": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        ".redislabs": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "_redislabs": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "-redislabs": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
+        },
+        "__redislabs__": {
+          "collapsed": "./icons/folder-redis.clone.svg",
+          "expanded": "./icons/folder-redis-open.clone.svg"
         }
       },
       "file_suffixes": {
@@ -20487,11 +20649,29 @@
         "xhtml": "html",
         "html_vm": "html",
         "asp": "html",
+        "html": "html",
+        "aspx": "html",
+        "jshtm": "html",
+        "rhtml": "html",
+        "shtml": "html",
+        "volt": "html",
+        "xht": "html",
         "jade": "pug",
         "pug": "pug",
         "md": "markdown",
         "markdown": "markdown",
         "rst": "markdown",
+        "copilotmd": "markdown",
+        "litcoffee": "markdown",
+        "markdn": "markdown",
+        "mdown": "markdown",
+        "mdtext": "markdown",
+        "mdtxt": "markdown",
+        "mdwn": "markdown",
+        "mkd": "markdown",
+        "mkdn": "markdown",
+        "ronn": "markdown",
+        "workbook": "markdown",
         "blink": "blink",
         "css": "css",
         "scss": "sass",
@@ -20503,6 +20683,11 @@
         "json5": "json",
         "jsonl": "json",
         "ndjson": "json",
+        "geojson": "json",
+        "har": "json",
+        "jsonld": "json",
+        "webmanifest": "json",
+        "ts.map": "json",
         "schema.json": "json_schema",
         "hjson": "hjson",
         "jinja": "jinja",
@@ -20521,6 +20706,14 @@
         "yml.dist": "yaml",
         "yaml.dist": "yaml",
         "YAML-tmLanguage": "yaml",
+        "yaml": "yaml",
+        "yml": "yaml",
+        "cff": "yaml",
+        "eyaml": "yaml",
+        "eyml": "yaml",
+        "winget": "yaml",
+        "yaml-tmpreferences": "yaml",
+        "yaml-tmtheme": "yaml",
         "xml": "xml",
         "plist": "xml",
         "xsd": "xml",
@@ -20538,6 +20731,48 @@
         "dmn": "xml",
         "jrxml": "xml",
         "xmp": "xml",
+        "ascx": "xml",
+        "atom": "xml",
+        "axaml": "xml",
+        "axml": "xml",
+        "bpmn": "xml",
+        "csl": "xml",
+        "csproj.user": "xml",
+        "dita": "xml",
+        "ditamap": "xml",
+        "dtml": "xml",
+        "ent": "xml",
+        "fxml": "xml",
+        "isml": "xml",
+        "jmx": "xml",
+        "launch": "xml",
+        "menu": "xml",
+        "opml": "xml",
+        "owl": "xml",
+        "proj": "xml",
+        "publishsettings": "xml",
+        "pubxml": "xml",
+        "pubxml.user": "xml",
+        "rdf": "xml",
+        "rng": "xml",
+        "rss": "xml",
+        "shproj": "xml",
+        "storyboard": "xml",
+        "targets": "xml",
+        "tld": "xml",
+        "tmx": "xml",
+        "vbproj": "xml",
+        "vbproj.user": "xml",
+        "wsdl": "xml",
+        "wxi": "xml",
+        "wxl": "xml",
+        "wxs": "xml",
+        "xbl": "xml",
+        "xib": "xml",
+        "xliff": "xml",
+        "xoml": "xml",
+        "xpdl": "xml",
+        "xul": "xml",
         "toml": "toml",
         "toon": "toon",
         "png": "image",
@@ -20562,6 +20797,7 @@
         "jbig2": "image",
         "jb2": "image",
         "jng": "image",
+        "jxl": "image",
         "jxr": "image",
         "pgf": "image",
         "pic": "image",
@@ -20637,6 +20873,10 @@
         "act": "palette",
         "esx": "javascript",
         "mjs": "javascript",
+        "js": "javascript",
+        "cjs": "javascript",
+        "es6": "javascript",
+        "pac": "javascript",
         "jsx": "react",
         "tsx": "react_ts",
         "routing.ts": "routing",
@@ -20666,6 +20906,13 @@
         "cfg": "settings",
         "cnf": "settings",
         "tool-versions": "settings",
+        "directory": "settings",
+        "mak": "settings",
+        "npmrc": "settings",
+        "repo": "settings",
+        "ts": "typescript",
+        "cts": "typescript",
+        "mts": "typescript",
         "d.ts": "typescript-def",
         "d.cts": "typescript-def",
         "d.mts": "typescript-def",
@@ -20703,6 +20950,9 @@
         "vcxproj": "visualstudio",
         "vcxproj.filters": "visualstudio",
         "wixproj": "visualstudio",
+        "bas": "visualstudio",
+        "brs": "visualstudio",
+        "vba": "visualstudio",
         "vcl": "varnish",
         "pdb": "database",
         "sql": "database",
@@ -20742,6 +20992,7 @@
         "ldf": "database",
         "frm": "database",
         "kdbx": "database",
+        "dsql": "database",
         "kql": "kusto",
         "cs": "csharp",
         "csx": "csharp",
@@ -20805,6 +21056,7 @@
         "hex": "hex",
         "java": "java",
         "jsp": "java",
+        "jav": "java",
         "jar": "jar",
         "class": "javaclass",
         "c3": "c3",
@@ -20812,6 +21064,7 @@
         "i": "c",
         "mi": "c",
         "h": "h",
+        "hip": "hip",
         "cc": "cpp",
         "cpp": "cpp",
         "cxx": "cpp",
@@ -20820,6 +21073,15 @@
         "mii": "cpp",
         "ii": "cpp",
         "cppm": "cpp",
+        "c++m": "cpp",
+        "ccm": "cpp",
+        "cxxm": "cpp",
+        "h.in": "cpp",
+        "hpp.in": "cpp",
+        "ipp": "cpp",
+        "ixx": "cpp",
+        "tpp": "cpp",
+        "txx": "cpp",
         "hh": "hpp",
         "hpp": "hpp",
         "hxx": "hpp",
@@ -20827,9 +21089,19 @@
         "hp": "hpp",
         "tcc": "hpp",
         "inl": "hpp",
+        "m": "objective-c",
+        "mm": "objective-cpp",
         "rc": "rc",
         "go": "go",
         "py": "python",
+        "cpy": "python",
+        "gyp": "python",
+        "gypi": "python",
+        "ipy": "python",
+        "pyi": "python",
+        "pyt": "python",
+        "pyw": "python",
+        "rpy": "python",
         "pyc": "python-misc",
         "whl": "python-misc",
         "egg": "python-misc",
@@ -20847,12 +21119,34 @@
         "exp": "console",
         "nu": "console",
         "xsh": "console",
+        "bash_aliases": "console",
+        "bash_login": "console",
+        "bash_logout": "console",
+        "bash_profile": "console",
+        "bashrc": "console",
+        "cshrc": "console",
+        "ebuild": "console",
+        "eclass": "console",
+        "profile": "console",
+        "tcshrc": "console",
+        "xprofile": "console",
+        "xsession": "console",
+        "xsessionrc": "console",
+        "yash_profile": "console",
+        "yashrc": "console",
+        "zlogin": "console",
+        "zlogout": "console",
+        "zprofile": "console",
+        "zsh-theme": "console",
+        "zshenv": "console",
+        "zshrc": "console",
         "ps1": "powershell",
         "psm1": "powershell",
         "psd1": "powershell",
         "ps1xml": "powershell",
         "psc1": "powershell",
         "pssc": "powershell",
+        "psrc": "powershell",
         "excalidraw": "excalidraw",
         "excalidraw.json": "excalidraw",
         "excalidraw.svg": "excalidraw",
@@ -20894,6 +21188,9 @@
         "lib": "lib",
         "a": "lib",
         "bib": "bibliography",
+        "bbl": "bibliography",
+        "bcf": "bibliography",
+        "blg": "bibliography",
         "bst": "bibtex-style",
         "dll": "dll",
         "ilk": "dll",
@@ -20901,10 +21198,18 @@
         "rb": "ruby",
         "erb": "ruby",
         "rbs": "ruby",
+        "gemspec": "ruby",
+        "podspec": "ruby",
+        "rake": "ruby",
+        "rbi": "ruby",
+        "rbx": "ruby",
+        "rjs": "ruby",
+        "ru": "ruby",
         "fs": "fsharp",
         "fsx": "fsharp",
         "fsi": "fsharp",
         "fsproj": "fsharp",
+        "fsscript": "fsharp",
         "swift": "swift",
         "xcplayground": "swift",
         "swiftdeps": "swift",
@@ -20920,6 +21225,15 @@
         "containerfile": "docker",
         "compose.yaml": "docker",
         "compose.yml": "docker",
+        "tex": "tex",
+        "ltx": "tex",
+        "cls": "tex",
+        "clo": "tex",
+        "latex": "tex",
+        "aux": "tex",
+        "tikz": "tex",
+        "synctex": "tex",
+        "synctex.gz": "tex",
         "sty": "sty",
         "ctx": "context",
         "dtx": "dtx",
@@ -21060,13 +21374,23 @@
         "mist.tsx": "mist",
         "otne": "otne",
         "patch": "git",
+        "diff": "diff",
+        "rej": "diff",
         "lua": "lua",
         "clj": "clojure",
         "cljs": "clojure",
         "cljc": "clojure",
+        "cljx": "clojure",
+        "clojure": "clojure",
+        "edn": "clojure",
         "groovy": "groovy",
+        "gvy": "groovy",
+        "nf": "groovy",
         "r": "r",
         "rmd": "r",
+        "rhistory": "r",
+        "rprofile": "r",
+        "rt": "r",
         "dart": "dart",
         "freezed.dart": "dart_generated",
         "g.dart": "dart_generated",
@@ -21102,8 +21426,13 @@
         "lock": "lock",
         "hbs": "handlebars",
         "mustache": "handlebars",
+        "handlebars": "handlebars",
+        "hjs": "handlebars",
         "pm": "perl",
         "raku": "perl",
+        "pod": "perl",
+        "psgi": "perl",
+        "t": "perl",
         "hx": "haxe",
         "spec.ts": "test-ts",
         "spec.cts": "test-ts",
@@ -21314,6 +21643,7 @@
         "prisma": "prisma",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "razor": "razor",
         "abc": "abc",
         "ad": "asciidoc",
         "adoc": "asciidoc",
@@ -21328,16 +21658,37 @@
         "stl": "3d",
         "stp": "3d",
         "step": "3d",
+        "ste": "3d",
         "obj": "3d",
         "o": "3d",
         "ac": "3d",
+        "dwg": "3d",
         "dxf": "3d",
         "fbx": "3d",
         "mesh": "3d",
+        "3dm": "3d",
+        "3mf": "3d",
+        "catpart": "3d",
+        "catproduct": "3d",
+        "f3d": "3d",
+        "iam": "3d",
+        "ige": "3d",
+        "iges": "3d",
+        "igs": "3d",
+        "ipt": "3d",
+        "jt": "3d",
         "mqo": "3d",
         "pmd": "3d",
         "pmx": "3d",
+        "prt": "3d",
+        "sab": "3d",
+        "sat": "3d",
         "skp": "3d",
+        "sldasm": "3d",
+        "slddrw": "3d",
+        "sldprt": "3d",
+        "smb": "3d",
+        "smt": "3d",
         "vac": "3d",
         "vdp": "3d",
         "vox": "3d",
@@ -21349,6 +21700,10 @@
         "wrl": "3d",
         "usd": "3d",
         "usdz": "3d",
+        "wire": "3d",
+        "x_b": "3d",
+        "x_t": "3d",
+        "123dx": "3d",
         "svg": "svg",
         "ai": "adobe-illustrator",
         "ait": "adobe-illustrator",
@@ -21470,6 +21825,11 @@
         "fen": "chess",
         "gmi": "gemini",
         "gemini": "gemini",
+        "php": "php",
+        "php4": "php",
+        "php5": "php",
+        "phtml": "php",
+        "ctp": "php",
         "tsconfig.json": "tsconfig",
         "tauri": "tauri",
         "jsconfig.json": "jsconfig",
@@ -21537,6 +21897,13 @@
         "wgsl": "shader",
         "spv": "shader",
         "slang": "shader",
+        "cginc": "shader",
+        "compute": "shader",
+        "fx": "shader",
+        "fxh": "shader",
+        "hlsli": "shader",
+        "psh": "shader",
+        "vsh": "shader",
         "sy": "siyuan",
         "ndst.yml": "ndst",
         "ndst.yaml": "ndst",
@@ -21649,10 +22016,12 @@
         "lean": "lean",
         "sls": "salt",
         "m2": "macaulay2",
+        "ua": "uiua",
         "skill.md": "skill",
         "skills.md": "skill",
         "instructions.md": "instructions",
-        "instruction.md": "instructions"
+        "instruction.md": "instructions",
+        "mrpack": "mrpack"
       },
       "file_stems": {
         ".pug-lintrc": "pug",
@@ -21782,6 +22151,9 @@
         "Playwright-ct.config.mts": "playwright",
         ".htaccess": "xml",
         ".HTACCESS": "xml",
+        "jakefile": "javascript",
+        "JAKEFILE": "javascript",
+        "Jakefile": "javascript",
         ".release-it.json": "rocket",
         ".RELEASE-IT.JSON": "rocket",
         ".release-it.JSON": "rocket",
@@ -22090,6 +22462,37 @@
         "post-merge": "console",
         "POST-MERGE": "console",
         "Post-merge": "console",
+        ".envrc": "console",
+        ".ENVRC": "console",
+        ".hushlogin": "console",
+        ".HUSHLOGIN": "console",
+        "apkbuild": "console",
+        "APKBUILD": "console",
+        "Apkbuild": "console",
+        "pkgbuild": "console",
+        "PKGBUILD": "console",
+        "Pkgbuild": "console",
+        "bashrc_apple_terminal": "console",
+        "BASHRC_APPLE_TERMINAL": "console",
+        "Bashrc_apple_terminal": "console",
+        "zlogin": "console",
+        "ZLOGIN": "console",
+        "Zlogin": "console",
+        "zlogout": "console",
+        "ZLOGOUT": "console",
+        "Zlogout": "console",
+        "zprofile": "console",
+        "ZPROFILE": "console",
+        "Zprofile": "console",
+        "zshenv": "console",
+        "ZSHENV": "console",
+        "Zshenv": "console",
+        "zshrc": "console",
+        "ZSHRC": "console",
+        "Zshrc": "console",
+        "zshrc_apple_terminal": "console",
+        "ZSHRC_APPLE_TERMINAL": "console",
+        "Zshrc_apple_terminal": "console",
         "excalidraw": "excalidraw",
         "EXCALIDRAW": "excalidraw",
         "Excalidraw": "excalidraw",
@@ -22271,6 +22674,65 @@
         "Keystatic.config.js": "keystatic",
         ".ruby-version": "ruby",
         ".RUBY-VERSION": "ruby",
+        "appraisals": "ruby",
+        "APPRAISALS": "ruby",
+        "Appraisals": "ruby",
+        "berksfile": "ruby",
+        "BERKSFILE": "ruby",
+        "Berksfile": "ruby",
+        "berksfile.lock": "ruby",
+        "BERKSFILE.LOCK": "ruby",
+        "berksfile.LOCK": "ruby",
+        "BERKSFILE.lock": "ruby",
+        "Berksfile.lock": "ruby",
+        "brewfile": "ruby",
+        "BREWFILE": "ruby",
+        "Brewfile": "ruby",
+        "capfile": "ruby",
+        "CAPFILE": "ruby",
+        "Capfile": "ruby",
+        "cheffile": "ruby",
+        "CHEFFILE": "ruby",
+        "Cheffile": "ruby",
+        "dangerfile": "ruby",
+        "DANGERFILE": "ruby",
+        "Dangerfile": "ruby",
+        "deliverfile": "ruby",
+        "DELIVERFILE": "ruby",
+        "Deliverfile": "ruby",
+        "guardfile": "ruby",
+        "GUARDFILE": "ruby",
+        "Guardfile": "ruby",
+        "gymfile": "ruby",
+        "GYMFILE": "ruby",
+        "Gymfile": "ruby",
+        "hobofile": "ruby",
+        "HOBOFILE": "ruby",
+        "Hobofile": "ruby",
+        "matchfile": "ruby",
+        "MATCHFILE": "ruby",
+        "Matchfile": "ruby",
+        "podfile": "ruby",
+        "PODFILE": "ruby",
+        "Podfile": "ruby",
+        "puppetfile": "ruby",
+        "PUPPETFILE": "ruby",
+        "Puppetfile": "ruby",
+        "rakefile": "ruby",
+        "RAKEFILE": "ruby",
+        "Rakefile": "ruby",
+        "rantfile": "ruby",
+        "RANTFILE": "ruby",
+        "Rantfile": "ruby",
+        "scanfile": "ruby",
+        "SCANFILE": "ruby",
+        "Scanfile": "ruby",
+        "snapfile": "ruby",
+        "SNAPFILE": "ruby",
+        "Snapfile": "ruby",
+        "thorfile": "ruby",
+        "THORFILE": "ruby",
+        "Thorfile": "ruby",
         "gemfile": "gemfile",
         "GEMFILE": "gemfile",
         "Gemfile": "gemfile",
@@ -22993,6 +23455,15 @@
         "git-history": "git",
         "GIT-HISTORY": "git",
         "Git-history": "git",
+        "commit_editmsg": "git",
+        "COMMIT_EDITMSG": "git",
+        "Commit_editmsg": "git",
+        "merge_msg": "git",
+        "MERGE_MSG": "git",
+        "Merge_msg": "git",
+        "git-rebase-todo": "git",
+        "GIT-REBASE-TODO": "git",
+        "Git-rebase-todo": "git",
         ".luacheckrc": "lua",
         ".LUACHECKRC": "lua",
         ".rhistory": "r",
@@ -23026,6 +23497,16 @@
         "vue.config.JS": "vue-config",
         "VUE.CONFIG.js": "vue-config",
         "Vue.config.js": "vue-config",
+        "vue.config.cjs": "vue-config",
+        "VUE.CONFIG.CJS": "vue-config",
+        "vue.config.CJS": "vue-config",
+        "VUE.CONFIG.cjs": "vue-config",
+        "Vue.config.cjs": "vue-config",
+        "vue.config.mjs": "vue-config",
+        "VUE.CONFIG.MJS": "vue-config",
+        "vue.config.MJS": "vue-config",
+        "VUE.CONFIG.mjs": "vue-config",
+        "Vue.config.mjs": "vue-config",
         "vue.config.ts": "vue-config",
         "VUE.CONFIG.TS": "vue-config",
         "vue.config.TS": "vue-config",
@@ -23046,6 +23527,8 @@
         "volar.config.JS": "vue-config",
         "VOLAR.CONFIG.js": "vue-config",
         "Volar.config.js": "vue-config",
+        ".vuerc": "vue-config",
+        ".VUERC": "vue-config",
         "nuxt.config.js": "nuxt",
         "NUXT.CONFIG.JS": "nuxt",
         "nuxt.config.JS": "nuxt",
@@ -23109,6 +23592,11 @@
         "vercel.JSON": "vercel",
         "VERCEL.json": "vercel",
         "Vercel.json": "vercel",
+        "vercel.ts": "vercel",
+        "VERCEL.TS": "vercel",
+        "vercel.TS": "vercel",
+        "VERCEL.ts": "vercel",
+        "Vercel.ts": "vercel",
         ".vercelignore": "vercel",
         ".VERCELIGNORE": "vercel",
         "now.json": "vercel",
@@ -26509,6 +26997,16 @@
         ".DRONE.YML": "drone",
         ".drone.YML": "drone",
         ".DRONE.yml": "drone",
+        "opencode.json": "opencode",
+        "OPENCODE.JSON": "opencode",
+        "opencode.JSON": "opencode",
+        "OPENCODE.json": "opencode",
+        "Opencode.json": "opencode",
+        "opencode.jsonc": "opencode",
+        "OPENCODE.JSONC": "opencode",
+        "opencode.JSONC": "opencode",
+        "OPENCODE.jsonc": "opencode",
+        "Opencode.jsonc": "opencode",
         ".sequelizerc": "sequelize",
         ".SEQUELIZERC": "sequelize",
         "gatsby-config.js": "gatsby",
@@ -30377,6 +30875,8 @@
         "copilot-instructions.MD": "copilot",
         "COPILOT-INSTRUCTIONS.md": "copilot",
         "Copilot-instructions.md": "copilot",
+        ".copilotignore": "copilot",
+        ".COPILOTIGNORE": "copilot",
         ".pre-commit-config.yaml": "pre-commit",
         ".PRE-COMMIT-CONFIG.YAML": "pre-commit",
         ".pre-commit-config.YAML": "pre-commit",
@@ -30717,6 +31217,21 @@
         "metro.config.JSON": "metro",
         "METRO.CONFIG.json": "metro",
         "Metro.config.json": "metro",
+        "metro.config.ts": "metro",
+        "METRO.CONFIG.TS": "metro",
+        "metro.config.TS": "metro",
+        "METRO.CONFIG.ts": "metro",
+        "Metro.config.ts": "metro",
+        "metro.config.cts": "metro",
+        "METRO.CONFIG.CTS": "metro",
+        "metro.config.CTS": "metro",
+        "METRO.CONFIG.cts": "metro",
+        "Metro.config.cts": "metro",
+        "metro.config.mts": "metro",
+        "METRO.CONFIG.MTS": "metro",
+        "metro.config.MTS": "metro",
+        "METRO.CONFIG.mts": "metro",
+        "Metro.config.mts": "metro",
         "src/bashly.yaml": "bashly",
         "SRC/BASHLY.YAML": "bashly",
         "src/bashly.YAML": "bashly",
@@ -30782,6 +31297,46 @@
         "instruction.MD": "instructions",
         "INSTRUCTION.md": "instructions",
         "Instruction.md": "instructions",
+        "tsdown.config.ts": "tsdown",
+        "TSDOWN.CONFIG.TS": "tsdown",
+        "tsdown.config.TS": "tsdown",
+        "TSDOWN.CONFIG.ts": "tsdown",
+        "Tsdown.config.ts": "tsdown",
+        "tsdown.config.mts": "tsdown",
+        "TSDOWN.CONFIG.MTS": "tsdown",
+        "tsdown.config.MTS": "tsdown",
+        "TSDOWN.CONFIG.mts": "tsdown",
+        "Tsdown.config.mts": "tsdown",
+        "tsdown.config.cts": "tsdown",
+        "TSDOWN.CONFIG.CTS": "tsdown",
+        "tsdown.config.CTS": "tsdown",
+        "TSDOWN.CONFIG.cts": "tsdown",
+        "Tsdown.config.cts": "tsdown",
+        "tsdown.config.js": "tsdown",
+        "TSDOWN.CONFIG.JS": "tsdown",
+        "tsdown.config.JS": "tsdown",
+        "TSDOWN.CONFIG.js": "tsdown",
+        "Tsdown.config.js": "tsdown",
+        "tsdown.config.mjs": "tsdown",
+        "TSDOWN.CONFIG.MJS": "tsdown",
+        "tsdown.config.MJS": "tsdown",
+        "TSDOWN.CONFIG.mjs": "tsdown",
+        "Tsdown.config.mjs": "tsdown",
+        "tsdown.config.cjs": "tsdown",
+        "TSDOWN.CONFIG.CJS": "tsdown",
+        "tsdown.config.CJS": "tsdown",
+        "TSDOWN.CONFIG.cjs": "tsdown",
+        "Tsdown.config.cjs": "tsdown",
+        "tsdown.config.json": "tsdown",
+        "TSDOWN.CONFIG.JSON": "tsdown",
+        "tsdown.config.JSON": "tsdown",
+        "TSDOWN.CONFIG.json": "tsdown",
+        "Tsdown.config.json": "tsdown",
+        "tsdown.config": "tsdown",
+        "TSDOWN.CONFIG": "tsdown",
+        "tsdown.CONFIG": "tsdown",
+        "TSDOWN.config": "tsdown",
+        "Tsdown.config": "tsdown",
         "appwrite.json": "appwrite",
         "APPWRITE.JSON": "appwrite",
         "appwrite.JSON": "appwrite",

@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@types/node": "^24.12.2",
-    "material-icon-theme": "5.34.0",
-    "tsx": "4.20.5"
+    "material-icon-theme": "^5.37.0",
+    "tsx": "^4.23.10"
   }
 }
